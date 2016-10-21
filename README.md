@@ -3,22 +3,22 @@ This is a blank HTML5 boilerplate with all the ground work included.
 
 ## HTML/CSS Template
 
-  None
+ * None
 
 ## HTML5 Polyfills
  
-  Modernizr
+ * Modernizr
 
 ## jQuery
 
-  Minified
+ * Minified
 
 ## Additional includes
 
-  Old browser warning
-  Google Analytics
-  Favicon
-  plugins.js
-  Robots.txt
-  Humans.txt
-  404 Page
+ * Old browser warning
+ * Google Analytics
+ * Favicon
+ * plugins.js
+ * Robots.txt
+ * Humans.txt
+ * 404 Page
